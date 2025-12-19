@@ -1,0 +1,17 @@
+{
+  "name": "jsm-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot da Junta de Serviço Militar de Londrina",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "puppeteer": "^21.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
